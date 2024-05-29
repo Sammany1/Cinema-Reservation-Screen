@@ -15,7 +15,7 @@ The program provides the following functionalities:
 1. **Ticket Reservation**: Users can reserve seats by following these steps:
    - click on the seat he want to reserve.
    - View the current status of available seats.
-   - The system calculates the total amount to be paid.
+   - The system calculates the total amount to be paid live while selecting seats.
 
 4. **Invoice**: This option for total revenue.
    
