@@ -1,4 +1,4 @@
-# Cinema Reservation Screen in Java
+# Cinema Reservation Screen (Java GUI)
 
 This program enables users to reserve seats in a cinema with three classes of reservations: First, Second, and Third class. Each class has specific seating arrangements and ticket costs.
 
