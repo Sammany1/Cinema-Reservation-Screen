@@ -10,8 +10,6 @@ This program enables users to reserve seats in a cinema with three classes of re
 
 ## Functionality
 
-The program provides the following functionalities:
-
 1. **Ticket Reservation**: Users can reserve seats by following these steps:  
    - Click on the seat they want to reserve.  
    - View the current status of available seats.  
@@ -26,6 +24,19 @@ The program provides the following functionalities:
 ## Usage
 
 To use the program, follow the on-screen prompts and click on the seat you want to reserve.
+
+## Screenshots
+
+Here are a few screenshots showcasing the design of the application:
+
+1. **Main Screen**  
+   ![Main Screen](screenshots/main_screen.png "Main Screen")
+
+2. **Seat Selection**  
+   ![Seat Selection](screenshots/seat_selection.png "Seat Selection")
+
+3. **Invoice Screen**  
+   ![Invoice Screen](screenshots/invoice_screen.png "Invoice Screen")
 
 ## Purpose
 
